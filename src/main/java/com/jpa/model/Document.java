@@ -3,7 +3,7 @@ package com.jpa.model;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 
-@Entity
+//@Entity
 public class Document {
 @Id
 private int id;
